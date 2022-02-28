@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ShamanzsGangTicTacToe/static/css/main.719bfc1f.chunk.css",
-    "main.js": "/ShamanzsGangTicTacToe/static/js/main.fcd2bd9f.chunk.js",
-    "main.js.map": "/ShamanzsGangTicTacToe/static/js/main.fcd2bd9f.chunk.js.map",
+    "main.js": "/ShamanzsGangTicTacToe/static/js/main.3915778f.chunk.js",
+    "main.js.map": "/ShamanzsGangTicTacToe/static/js/main.3915778f.chunk.js.map",
     "runtime-main.js": "/ShamanzsGangTicTacToe/static/js/runtime-main.56e84a37.js",
     "runtime-main.js.map": "/ShamanzsGangTicTacToe/static/js/runtime-main.56e84a37.js.map",
     "static/css/2.4ac5a43c.chunk.css": "/ShamanzsGangTicTacToe/static/css/2.4ac5a43c.chunk.css",
     "static/js/2.96697d9a.chunk.js": "/ShamanzsGangTicTacToe/static/js/2.96697d9a.chunk.js",
     "static/js/2.96697d9a.chunk.js.map": "/ShamanzsGangTicTacToe/static/js/2.96697d9a.chunk.js.map",
     "index.html": "/ShamanzsGangTicTacToe/index.html",
-    "precache-manifest.fc9ea9ba20da1b16af9cc45a33b46392.js": "/ShamanzsGangTicTacToe/precache-manifest.fc9ea9ba20da1b16af9cc45a33b46392.js",
+    "precache-manifest.5cc9cd4158a427c44af32ab58c5b37af.js": "/ShamanzsGangTicTacToe/precache-manifest.5cc9cd4158a427c44af32ab58c5b37af.js",
     "service-worker.js": "/ShamanzsGangTicTacToe/service-worker.js",
     "static/css/2.4ac5a43c.chunk.css.map": "/ShamanzsGangTicTacToe/static/css/2.4ac5a43c.chunk.css.map",
     "static/css/main.719bfc1f.chunk.css.map": "/ShamanzsGangTicTacToe/static/css/main.719bfc1f.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.4ac5a43c.chunk.css",
     "static/js/2.96697d9a.chunk.js",
     "static/css/main.719bfc1f.chunk.css",
-    "static/js/main.fcd2bd9f.chunk.js"
+    "static/js/main.3915778f.chunk.js"
   ]
 }
