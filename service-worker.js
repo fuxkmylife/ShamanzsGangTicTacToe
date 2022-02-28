@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ShamanzsGangTicTacToe/precache-manifest.5cc9cd4158a427c44af32ab58c5b37af.js"
+  "/ShamanzsGangTicTacToe/precache-manifest.dbcdf93f7a353130b7025d4f045db944.js"
 );
 
 self.addEventListener('message', (event) => {

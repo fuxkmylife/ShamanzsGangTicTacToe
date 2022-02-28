@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ShamanzsGangTicTacToe/static/css/main.719bfc1f.chunk.css",
-    "main.js": "/ShamanzsGangTicTacToe/static/js/main.3915778f.chunk.js",
-    "main.js.map": "/ShamanzsGangTicTacToe/static/js/main.3915778f.chunk.js.map",
+    "main.css": "/ShamanzsGangTicTacToe/static/css/main.a308da44.chunk.css",
+    "main.js": "/ShamanzsGangTicTacToe/static/js/main.6fbf903f.chunk.js",
+    "main.js.map": "/ShamanzsGangTicTacToe/static/js/main.6fbf903f.chunk.js.map",
     "runtime-main.js": "/ShamanzsGangTicTacToe/static/js/runtime-main.56e84a37.js",
     "runtime-main.js.map": "/ShamanzsGangTicTacToe/static/js/runtime-main.56e84a37.js.map",
     "static/css/2.4ac5a43c.chunk.css": "/ShamanzsGangTicTacToe/static/css/2.4ac5a43c.chunk.css",
     "static/js/2.96697d9a.chunk.js": "/ShamanzsGangTicTacToe/static/js/2.96697d9a.chunk.js",
     "static/js/2.96697d9a.chunk.js.map": "/ShamanzsGangTicTacToe/static/js/2.96697d9a.chunk.js.map",
     "index.html": "/ShamanzsGangTicTacToe/index.html",
-    "precache-manifest.5cc9cd4158a427c44af32ab58c5b37af.js": "/ShamanzsGangTicTacToe/precache-manifest.5cc9cd4158a427c44af32ab58c5b37af.js",
+    "precache-manifest.dbcdf93f7a353130b7025d4f045db944.js": "/ShamanzsGangTicTacToe/precache-manifest.dbcdf93f7a353130b7025d4f045db944.js",
     "service-worker.js": "/ShamanzsGangTicTacToe/service-worker.js",
     "static/css/2.4ac5a43c.chunk.css.map": "/ShamanzsGangTicTacToe/static/css/2.4ac5a43c.chunk.css.map",
-    "static/css/main.719bfc1f.chunk.css.map": "/ShamanzsGangTicTacToe/static/css/main.719bfc1f.chunk.css.map",
+    "static/css/main.a308da44.chunk.css.map": "/ShamanzsGangTicTacToe/static/css/main.a308da44.chunk.css.map",
     "static/js/2.96697d9a.chunk.js.LICENSE.txt": "/ShamanzsGangTicTacToe/static/js/2.96697d9a.chunk.js.LICENSE.txt",
     "static/media/shamenze_Tic Tac Toe-02-min.png": "/ShamanzsGangTicTacToe/static/media/shamenze_Tic Tac Toe-02-min.d772c718.png",
     "static/media/shamenze_Tic Tac Toe-09-min.png": "/ShamanzsGangTicTacToe/static/media/shamenze_Tic Tac Toe-09-min.00e032a1.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.56e84a37.js",
     "static/css/2.4ac5a43c.chunk.css",
     "static/js/2.96697d9a.chunk.js",
-    "static/css/main.719bfc1f.chunk.css",
-    "static/js/main.3915778f.chunk.js"
+    "static/css/main.a308da44.chunk.css",
+    "static/js/main.6fbf903f.chunk.js"
   ]
 }
